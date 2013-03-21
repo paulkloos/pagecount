@@ -1,0 +1,18 @@
+Create an Access Database with this information
+
+Table: Printer
+Columns       ID          ip    location  type  disabled  disabled_date  replacement
+Column Types  AutoNumber  Text  Text      Text  Yes/No    Date/Time      Number
+
+Table: print_report
+Columns       ID          printer_id  overall_pagecount  color_pagecount  mono_pagecount  date_time
+Column Types  AutoNumber  Number      Number             Number           Number          Date/Time
+
+Table: errors
+Columns       ID          Message  date_time
+Column Types  AutoNumber  Memo     Date/Time
+
+Query: base_count
+SELECT print_report.[ID], print_report.[printer_id], print_report.[overall_pagecount], print_report.[color_pagecount], print_report.[mono_pagecount], print_report.[date_time]
+FROM print_report;
+
