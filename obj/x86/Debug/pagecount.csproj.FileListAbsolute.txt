@@ -1,0 +1,12 @@
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.Form1.resources
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.Form2.resources
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.Form3.resources
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.Properties.Resources.resources
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.csproj.GenerateResource.Cache
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\bin\Debug\pagecount.exe.config
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\bin\Debug\pagecount.exe
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\bin\Debug\pagecount.pdb
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.exe
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.pdb
+C:\Users\paul.kloos\Dropbox\Programming\pagecount\pagecount\obj\x86\Debug\pagecount.Form4.resources
